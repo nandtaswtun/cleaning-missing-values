@@ -13,3 +13,9 @@ EDA serves several key purposes:
 Common EDA techniques include the use of descriptive statistics (e.g., mean, median, standard deviation), graphical representations (e.g., histograms, box plots, scatter plots, and correlation heatmaps), and data aggregation methods (e.g., grouping and pivot tables).
 
 Overall, EDA provides essential insights that guide subsequent phases of data modeling and interpretation.
+
+So, What was happened at the CSV file?
+
+The CSV file contains a dataset comprising information on Netflix films and TV shows, including attributes such as title, release date, director, and other relevant metadata. However, due to concerns regarding potential data quality issues—specifically the presence of missing values and duplicate entries—a data cleaning process was undertaken. This process aims to identify and address incomplete or redundant records, thereby ensuring the integrity and reliability of the dataset for further analysis.
+
+Goal: By carrying out data cleaning techniques, this project aims to improve the quality and dependability of a dataset of Netflix titles. This entails locating and managing duplicate entries and missing values in order to get the data ready for precise exploratory analysis. The initiative intends to offer a strong basis for gaining insights on content trends, release patterns, and other pertinent elements inside the Netflix catalog by guaranteeing data integrity.
