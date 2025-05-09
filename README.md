@@ -14,7 +14,7 @@ Common EDA techniques include the use of descriptive statistics (e.g., mean, med
 
 Overall, EDA provides essential insights that guide subsequent phases of data modeling and interpretation.
 
-So, What was happened at the dataset?
+#So, What was happened at the dataset?
 
 The dataset contains a dataset comprising information on Netflix films and TV shows, including attributes such as title, release date, director, and other relevant metadata. However, due to concerns regarding potential data quality issues—specifically the presence of missing values and duplicate entries—a data cleaning process was undertaken. This process aims to identify and address incomplete or redundant records, thereby ensuring the integrity and reliability of the dataset for further analysis.
 
